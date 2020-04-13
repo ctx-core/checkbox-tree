@@ -19,8 +19,6 @@ $: {
 		log(`${logPrefix}|onstate|children`)
 		let has__true
 		let has__false
-		let checked
-		let indeterminate
 		each(a1__key__child, key__child => {
 			const child = children[key__child]
 			has__true = has__true || !!child
