@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tree__checkbox",
-	"version": "7.1.54",
+	"version": "7.1.55",
 	"description": "ctx-core tree__checkbox",
 	"main": "Node__Tree__Checkbox.html",
 	"module": "Node__Tree__Checkbox.html",
@@ -35,8 +35,8 @@
 		"svelte": "^3.20.1"
 	},
 	"devDependencies": {
-		"@ctx-core/array": "^15.5.12",
-		"@ctx-core/sass": "^6.4.19",
+		"@ctx-core/array": "^15.5.13",
+		"@ctx-core/sass": "^6.4.20",
 		"typescript": "^3.8.3"
 	},
 	"gitHead": "ecded533c5d9946e2d9dafa39dbc95ce3e38ad93"
