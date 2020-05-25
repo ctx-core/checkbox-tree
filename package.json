@@ -2,6 +2,7 @@
 	"name": "@ctx-core/tree__checkbox",
 	"version": "7.1.65",
 	"description": "ctx-core tree__checkbox",
+	"type": "module",
 	"main": "Node__Tree__Checkbox.html",
 	"module": "Node__Tree__Checkbox.html",
 	"scripts": {
