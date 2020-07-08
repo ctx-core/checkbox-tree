@@ -2,8 +2,9 @@
 	"name": "@ctx-core/tree__checkbox",
 	"version": "7.1.78",
 	"description": "ctx-core tree__checkbox",
-	"main": "Node__Tree__Checkbox.html",
-	"module": "Node__Tree__Checkbox.html",
+	"main": "index.js",
+	"module": "index.js",
+	"types": "index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
