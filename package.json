@@ -38,7 +38,7 @@
 	"devDependencies": {
 		"@ctx-core/array": "^15.5.28",
 		"@ctx-core/sass": "^6.4.43",
-		"typescript": "^3.9.6"
+		"typescript": "^3.9.7"
 	},
 	"gitHead": "d026de6478722948fb6f67c4148a918fdde30163"
 }
