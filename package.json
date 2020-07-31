@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tree__checkbox",
-	"version": "7.1.88",
+	"version": "7.1.89",
 	"description": "ctx-core tree__checkbox",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -32,12 +32,12 @@
 	},
 	"dependencies": {
 		"@ctx-core/logger": "^3.1.21",
-		"@ctx-core/object": "^9.0.2",
+		"@ctx-core/object": "^9.0.3",
 		"svelte": "^3.24.0"
 	},
 	"devDependencies": {
-		"@ctx-core/array": "^16.0.3",
-		"@ctx-core/sass": "^6.4.48",
+		"@ctx-core/array": "^16.0.4",
+		"@ctx-core/sass": "^6.4.49",
 		"typescript": "^3.9.7"
 	},
 	"gitHead": "3c5a800c5611d437610d9f7aeee16e2c0b62c763"
