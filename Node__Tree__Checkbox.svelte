@@ -4,8 +4,6 @@ import { each } from '@ctx-core/array'
 import { clone } from '@ctx-core/object'
 import Knob__Tree__Checkbox from './Knob__Tree__Checkbox.svelte'
 import Input__Tree__Checkbox from './Input__Tree__Checkbox.svelte'
-import { log, debug } from '@ctx-core/logger'
-const logPrefix = '@ctx-core/tree__checkbox/Node__Tree__Checkbox.svelte'
 const dispatch = createEventDispatcher()
 export let id = ''
 export let title = ''
@@ -16,7 +14,6 @@ export let indeterminate = null
 export let a1__key__child = null
 $: {
 	if (children) {
-		log(`${logPrefix}|onstate|children`)
 		let has__true
 		let has__false
 		each(a1__key__child, key__child => {
@@ -29,12 +26,10 @@ $: {
 	}
 }
 function __click__knob(event) {
-	log(`${logPrefix}|__click__knob`)
 	event.preventDefault()
 	expanded = !expanded
 }
 function __change__input(event) {
-	log(`${logPrefix}|__change__input`)
 	const { target } = event
 	const { checked } = target
 	const children__ = clone(children)
