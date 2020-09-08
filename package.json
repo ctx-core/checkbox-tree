@@ -35,7 +35,7 @@
 		"svelte": "^3.24.1"
 	},
 	"devDependencies": {
-		"@ctx-core/array": "^16.0.15",
+		"@ctx-core/array": "^17.0.0",
 		"@ctx-core/sass": "^7.1.5",
 		"typescript": "^4.0.2"
 	},
