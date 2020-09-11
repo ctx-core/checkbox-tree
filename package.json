@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tree__checkbox",
-	"version": "7.1.110",
+	"version": "7.1.111",
 	"description": "ctx-core tree__checkbox",
 	"main": "./index.js",
 	"module": "./index.js",
