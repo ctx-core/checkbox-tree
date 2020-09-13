@@ -2,6 +2,22 @@
 	"name": "@ctx-core/tree__checkbox",
 	"version": "7.1.114",
 	"description": "ctx-core tree__checkbox",
+	"keywords": [
+		"ctx-core",
+		"Tree__Checkbox",
+		"svelte",
+		"component"
+	],
+	"homepage": "https://github.com/ctx-core/tree__checkbox#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/tree__checkbox/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/tree__checkbox/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,36 +25,20 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/tree__checkbox/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"Tree__Checkbox",
-		"svelte",
-		"component"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/tree__checkbox/issues"
-	},
-	"homepage": "https://github.com/ctx-core/tree__checkbox#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^10.0.4",
+		"@ctx-core/object": "workspace:*",
 		"svelte": "^3.25.0"
 	},
 	"devDependencies": {
-		"@ctx-core/array": "^17.0.4",
-		"@ctx-core/sass": "^7.1.10",
+		"@ctx-core/array": "workspace:*",
+		"@ctx-core/sass": "workspace:*",
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "9ab3d1e25297647422d6ecde5a902df636a2273a"
 }
