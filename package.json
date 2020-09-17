@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/tree__checkbox",
-  "version": "7.1.115",
+  "version": "7.1.116",
   "description": "ctx-core tree__checkbox",
   "keywords": [
     "ctx-core",
@@ -24,7 +24,7 @@
   "scripts": {
     "build": "npm run clean && npm run compile",
     "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "tsc -b",
+    "compile": "./node_modules/.bin/tsc -b",
     "exec": "$@",
     "prepublishOnly": "npm run compile"
   },
