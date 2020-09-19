@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 8.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@12.0.0
+
 ## 7.1.116
 
 ### Patch Changes
