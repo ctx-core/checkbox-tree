@@ -1,5 +1,12 @@
 # @ctx-core/tree\_\_checkbox
 
+## 8.0.2
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@12.0.2
+
 ## 8.0.1
 
 ### Patch Changes
