@@ -34,7 +34,7 @@
 	},
 	"devDependencies": {
 		"@ctx-core/array": "workspace:^19.0.11",
-		"@ctx-core/sass": "workspace:^8.0.12",
+		"@ctx-core/sass": "workspace:^8.0.13",
 		"typescript": "^4.0.3"
 	},
 	"publishConfig": {
