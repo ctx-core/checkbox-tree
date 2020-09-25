@@ -1,5 +1,11 @@
 # @ctx-core/tree\_\_checkbox
 
+## 8.0.17
+
+### Patch Changes
+
+- svelte: 3.27.0 -> 3.28.0
+
 ## 8.0.16
 
 ### Patch Changes
