@@ -1,5 +1,14 @@
 # @ctx-core/tree\_\_checkbox
 
+## 8.0.55
+
+### Patch Changes
+
+- @ctx-core/array@19.1.14
+- @ctx-core/object@15.0.11
+- @ctx-core/store@23.1.16
+- @ctx-core/sass@8.1.3
+
 ## 8.0.54
 
 ### Patch Changes
