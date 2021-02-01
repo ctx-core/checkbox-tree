@@ -1,9 +1,9 @@
-<div class="Tree__Checkbox">
+<div class="Checkbox_Tree">
 	<slot></slot>
 </div>
 
 <style type="text/scss">
-:global(.Tree__Checkbox) {
+:global(.Checkbox_Tree) {
 	:global(h3) {
 		margin-bottom: 0;
 	}
@@ -17,7 +17,7 @@
 		:global(li) {
 			position: relative;
 			padding: 0 0 0 1rem;
-			:global(a.Knob__Tree__Checkbox) {
+			:global(a.Checkbox_Tree_Knob) {
 				display: block;
 				position: absolute;
 				top: 0;

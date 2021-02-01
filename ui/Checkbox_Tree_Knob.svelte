@@ -4,7 +4,7 @@ export let expanded = false
 
 <a
 	href="."
-	class="Knob__Tree__Checkbox"
+	class="Checkbox_Tree_Knob"
 	on:click
 >
 	{#if expanded}

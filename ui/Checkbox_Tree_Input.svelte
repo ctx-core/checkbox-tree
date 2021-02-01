@@ -10,7 +10,7 @@ let input
 	bind:this={input}
 	type="checkbox"
 	id={id}
-	class="Input__Tree__Checkbox"
+	class="Checkbox_Tree_Input"
 	{title}
 	on:change
 	bind:checked
@@ -18,5 +18,5 @@ let input
 />
 <label
 	for={id}
-	class="Input__Tree__Checkbox"
+	class="Checkbox_Tree_Input"
 >{title}</label>
