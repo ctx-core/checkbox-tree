@@ -1,5 +1,11 @@
 # @ctx-core/tree\_\_checkbox
 
+## 9.1.6
+
+### Patch Changes
+
+- @ctx-core/sass@9.1.5
+
 ## 9.1.5
 
 ### Patch Changes
