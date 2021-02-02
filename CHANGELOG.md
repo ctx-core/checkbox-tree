@@ -1,5 +1,14 @@
 # @ctx-core/tree\_\_checkbox
 
+## 9.1.8
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.1.2
+  - @ctx-core/sass@9.1.7
+  - @ctx-core/store@24.0.5
+
 ## 9.1.7
 
 ### Patch Changes
