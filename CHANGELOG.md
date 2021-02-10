@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 9.1.17
+
+### Patch Changes
+
+- typescript: ^4.1.4 -> ^4.1.5
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.1.8
+  - @ctx-core/object@17.0.6
+  - @ctx-core/sass@9.1.14
+  - @ctx-core/store@24.0.13
+
 ## 9.1.16
 
 ### Patch Changes
