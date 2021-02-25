@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tree__checkbox",
-	"version": "9.1.26",
+	"version": "9.1.27",
 	"description": "ctx-core tree__checkbox",
 	"keywords": [
 		"ctx-core",
@@ -32,8 +32,8 @@
 		"@ctx-core/array": "workspace:^20.1.12",
 		"@ctx-core/object": "workspace:^17.0.11",
 		"@ctx-core/sass": "workspace:^9.2.0",
-		"@ctx-core/store": "workspace:^24.1.1",
-		"svelte": "3.32.3"
+		"@ctx-core/store": "workspace:^24.1.2",
+		"svelte": "3.33.0"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.2"
