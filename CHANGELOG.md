@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 9.1.41
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.2.1
+  - @ctx-core/object@17.4.1
+  - @ctx-core/sass@9.2.12
+  - @ctx-core/store@24.1.14
+
 ## 9.1.40
 
 ### Patch Changes
