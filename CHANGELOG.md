@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 9.1.42
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.2.2
+  - @ctx-core/object@17.4.2
+  - @ctx-core/sass@9.2.13
+  - @ctx-core/store@24.1.15
+
 ## 9.1.41
 
 ### Patch Changes
