@@ -1,5 +1,11 @@
 # @ctx-core/tree\_\_checkbox
 
+## 9.1.79
+
+### Patch Changes
+
+- update dependencies
+
 ## 9.1.78
 
 ### Patch Changes
