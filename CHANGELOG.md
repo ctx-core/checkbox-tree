@@ -1,5 +1,19 @@
 # @ctx-core/tree\_\_checkbox
 
+## 9.2.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.3.0
+  - @ctx-core/object@17.6.0
+  - @ctx-core/sass@9.3.0
+  - @ctx-core/store@24.8.0
+
 ## 9.1.88
 
 ### Patch Changes
