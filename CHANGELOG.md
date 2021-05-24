@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 9.3.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.4.1
+  - @ctx-core/object@18.1.1
+  - @ctx-core/sass@9.4.1
+  - @ctx-core/store@24.9.1
+
 ## 9.3.0
 
 ### Minor Changes
