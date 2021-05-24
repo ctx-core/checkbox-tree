@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 9.2.13
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.3.10
+  - @ctx-core/object@18.0.6
+  - @ctx-core/sass@9.3.8
+  - @ctx-core/store@24.8.10
+
 ## 9.2.12
 
 ### Patch Changes

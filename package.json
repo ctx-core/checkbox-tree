@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tree__checkbox",
-	"version": "9.2.12",
+	"version": "9.2.13",
 	"description": "ctx-core tree__checkbox",
 	"keywords": [
 		"ctx-core",
@@ -20,7 +20,7 @@
 	"author": "Brian Takita",
 	"main": "./src/index.js",
 	"module": "./src/index.js",
-	"types": "./src/index.ts",
+	"types": "./src/index.d.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
@@ -29,10 +29,10 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^20.3.9",
-		"@ctx-core/object": "workspace:^18.0.5",
-		"@ctx-core/sass": "workspace:^9.3.7",
-		"@ctx-core/store": "workspace:^24.8.9",
+		"@ctx-core/array": "workspace:^20.3.10",
+		"@ctx-core/object": "workspace:^18.0.6",
+		"@ctx-core/sass": "workspace:^9.3.8",
+		"@ctx-core/store": "workspace:^24.8.10",
 		"svelte": "3.38.2"
 	},
 	"devDependencies": {
