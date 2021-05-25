@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tree__checkbox",
-	"version": "9.3.2",
+	"version": "9.4.0",
 	"description": "ctx-core tree__checkbox",
 	"keywords": [
 		"ctx-core",
@@ -20,22 +20,24 @@
 	"author": "Brian Takita",
 	"main": "./dist/index.js",
 	"module": "./dist/index.js",
-	"types": "./types/index.d.ts",
+	"types": "./dist/index.d.ts",
 	"scripts": {
-		"build": "npm run clean && npm run compile",
+		"build": "npm run clean && npm run compile && npm run symlink",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "./node_modules/.bin/tsc -b .",
+		"symlink": "./node_modules/.bin/symlink_src_assets_to_dist .",
 		"exec": "$@",
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^20.4.2",
-		"@ctx-core/object": "workspace:^18.1.1",
-		"@ctx-core/sass": "workspace:^9.4.2",
-		"@ctx-core/store": "workspace:^24.9.2",
+		"@ctx-core/array": "workspace:^20.5.0",
+		"@ctx-core/object": "workspace:^18.2.0",
+		"@ctx-core/sass": "workspace:^9.5.0",
+		"@ctx-core/store": "workspace:^24.10.0",
 		"svelte": "3.38.2"
 	},
 	"devDependencies": {
+		"@ctx-core/ctx-core-package-tools": "workspace:^6.4.0",
 		"typescript": "^4.2.4"
 	},
 	"publishConfig": {
