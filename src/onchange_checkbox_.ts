@@ -1,6 +1,6 @@
-import { get, Writable } from '@ctx-core/store'
 import { clone } from '@ctx-core/object'
-export function _onchange_checkbox(
+import { get, Writable } from '@ctx-core/store'
+export function onchange_checkbox_(
 	store:Writable<Record<string, boolean>>
 ) {
 	return function onchange_checkbox(
@@ -18,4 +18,7 @@ export function _onchange_checkbox(
 			store.set(item_h_selected)
 		}
 	}
+}
+export {
+	onchange_checkbox_ as _onchange_checkbox,
 }

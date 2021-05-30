@@ -1,6 +1,6 @@
-import { get, Writable } from '@ctx-core/store'
 import { clone } from '@ctx-core/object'
-export function _onchange_all_checkbox(
+import { get, Writable } from '@ctx-core/store'
+export function onchange_all_checkbox_(
 	store:Writable<Record<string, boolean>>,
 	fn:(item_h_selected:Record<string, boolean>, checked:boolean)=>void
 ) {
@@ -16,4 +16,7 @@ export function _onchange_all_checkbox(
 		fn(item_h_selected, checked)
 		store.set(item_h_selected)
 	}
+}
+export {
+	onchange_all_checkbox_ as _onchange_all_checkbox,
 }
