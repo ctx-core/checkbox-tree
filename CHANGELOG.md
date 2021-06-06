@@ -1,5 +1,14 @@
 # @ctx-core/tree\_\_checkbox
 
+## 10.0.13
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/sass@10.0.9
+  - @ctx-core/store@25.1.10
+
 ## 10.0.12
 
 ### Patch Changes
