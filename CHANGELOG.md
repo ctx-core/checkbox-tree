@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 10.0.16
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/array@21.2.7
+  - @ctx-core/object@19.1.3
+  - @ctx-core/sass@10.0.12
+  - @ctx-core/store@25.1.13
+
 ## 10.0.15
 
 ### Patch Changes
