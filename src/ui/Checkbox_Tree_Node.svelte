@@ -11,12 +11,12 @@ export let checked = null
 export let children = null
 export let expanded = null
 export let indeterminate = null
-export let child_key_a1 = null
+export let child_key_a = null
 $: {
 	if (children) {
 		let has_true
 		let has_false
-		each(child_key_a1, child_key => {
+		each(child_key_a, child_key => {
 			const child = children[child_key]
 			has_true = has_true || !!child
 			has_false = has_false || !child
@@ -36,9 +36,9 @@ function onchange_input(event:MouseEvent) {
 	if (checked) {
 		expanded = true
 	}
-	if (i_children && child_key_a1) {
+	if (i_children && child_key_a) {
 		each(
-			child_key_a1,
+			child_key_a,
 			child_key =>
 				i_children[child_key] = checked)
 		indeterminate = false
