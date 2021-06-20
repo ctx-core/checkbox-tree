@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 11.0.11
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.8
+  - @ctx-core/object@20.0.7
+  - @ctx-core/sass@11.0.10
+  - @ctx-core/store@26.0.8
+
 ## 11.0.10
 
 ### Patch Changes
