@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 11.0.10
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.7
+  - @ctx-core/object@20.0.6
+  - @ctx-core/sass@11.0.9
+  - @ctx-core/store@26.0.7
+
 ## 11.0.9
 
 ### Patch Changes
