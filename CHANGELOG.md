@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 11.0.9
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.6
+  - @ctx-core/object@20.0.5
+  - @ctx-core/sass@11.0.8
+  - @ctx-core/store@26.0.6
+
 ## 11.0.8
 
 ### Patch Changes
