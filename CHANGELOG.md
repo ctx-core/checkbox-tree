@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 11.0.8
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.5
+  - @ctx-core/object@20.0.4
+  - @ctx-core/sass@11.0.7
+  - @ctx-core/store@26.0.5
+
 ## 11.0.7
 
 ### Patch Changes
