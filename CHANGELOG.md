@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 11.0.15
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.11
+  - @ctx-core/object@20.1.1
+  - @ctx-core/sass@11.0.12
+  - @ctx-core/store@26.0.12
+
 ## 11.0.14
 
 ### Patch Changes
