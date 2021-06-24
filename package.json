@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tree__checkbox",
-	"version": "11.0.15",
+	"version": "11.0.16",
 	"description": "ctx-core tree__checkbox",
 	"keywords": [
 		"ctx-core",
@@ -29,10 +29,10 @@
 		"prepublishOnly": "npm run clean && npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^22.0.11",
-		"@ctx-core/object": "workspace:^20.1.1",
+		"@ctx-core/array": "workspace:^22.0.12",
+		"@ctx-core/object": "workspace:^20.1.2",
 		"@ctx-core/sass": "workspace:^11.0.12",
-		"@ctx-core/store": "workspace:^26.0.12",
+		"@ctx-core/store": "workspace:^26.0.13",
 		"svelte": "3.38.3"
 	},
 	"devDependencies": {
