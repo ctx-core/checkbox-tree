@@ -30,10 +30,10 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^22.1.0",
-		"@ctx-core/object": "workspace:^20.2.2",
+		"@ctx-core/array": "workspace:^22.1.1",
+		"@ctx-core/object": "workspace:^20.2.3",
 		"@ctx-core/sass": "workspace:^11.0.16",
-		"@ctx-core/store": "workspace:^26.0.18",
+		"@ctx-core/store": "workspace:^26.0.19",
 		"svelte": "3.38.3"
 	},
 	"devDependencies": {
