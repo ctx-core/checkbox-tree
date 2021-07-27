@@ -1,5 +1,13 @@
 # @ctx-core/tree\_\_checkbox
 
+## 12.0.20
+
+### Patch Changes
+
+- svelte: 3.40.3 -> 3.41.0
+- Updated dependencies [undefined]
+  - @ctx-core/store@27.0.16
+
 ## 12.0.19
 
 ### Patch Changes
