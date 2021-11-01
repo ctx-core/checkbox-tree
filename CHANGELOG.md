@@ -1,5 +1,20 @@
 # @ctx-core/tree\_\_checkbox
 
+## 12.0.73
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- svelte: 3.43.1 -> 3.44.0
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.22
+  - @ctx-core/object@21.0.21
+  - @ctx-core/sass@12.0.39
+  - @ctx-core/store@27.0.34
+
 ## 12.0.72
 
 ### Patch Changes
