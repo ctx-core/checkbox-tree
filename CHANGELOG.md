@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 12.0.75
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/array@23.0.23
+  - @ctx-core/object@21.0.22
+  - @ctx-core/sass@12.0.40
+  - @ctx-core/store@27.0.36
+
 ## 12.0.74
 
 ### Patch Changes
