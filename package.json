@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tree__checkbox",
-	"version": "12.0.83",
+	"version": "12.0.84",
 	"description": "ctx-core tree__checkbox",
 	"keywords": [
 		"ctx-core",
@@ -19,7 +19,6 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"main": "./dist/index.js",
 	"module": "./dist/index.js",
 	"types": "./src/index.ts",
 	"exports": {
@@ -37,10 +36,10 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.31",
+		"@ctx-core/array": "workspace:^23.0.32",
 		"@ctx-core/object": "workspace:^21.0.30",
-		"@ctx-core/sass": "workspace:^12.1.6",
-		"@ctx-core/store": "workspace:^27.0.44",
+		"@ctx-core/sass": "workspace:^12.1.7",
+		"@ctx-core/store": "workspace:^27.0.45",
 		"svelte": "3.44.2"
 	},
 	"devDependencies": {

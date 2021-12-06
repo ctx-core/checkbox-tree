@@ -1,5 +1,15 @@
 # @ctx-core/tree\_\_checkbox
 
+## 12.0.84
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/array@23.0.32
+  - @ctx-core/sass@12.1.7
+  - @ctx-core/store@27.0.45
+
 ## 12.0.83
 
 ### Patch Changes
