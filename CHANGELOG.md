@@ -1,5 +1,17 @@
 # @ctx-core/tree\_\_checkbox
 
+## 12.0.86
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@22.0.0
+  - @ctx-core/array@23.0.33
+  - @ctx-core/sass@12.1.8
+  - @ctx-core/store@27.0.46
+
 ## 12.0.85
 
 ### Patch Changes
