@@ -2,7 +2,7 @@
 	<slot></slot>
 </div>
 
-<style type="text/scss">
+<style lang="scss">
 :global(.Checkbox_Tree) {
 	:global(h3) {
 		margin-bottom: 0;
