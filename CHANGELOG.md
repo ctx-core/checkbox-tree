@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 12.0.90
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/array@23.0.36
+  - @ctx-core/object@22.0.3
+  - @ctx-core/sass@12.1.11
+  - @ctx-core/store@27.0.50
+
 ## 12.0.89
 
 ### Patch Changes
