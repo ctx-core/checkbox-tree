@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 12.0.94
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/array@23.0.40
+  - @ctx-core/object@22.0.7
+  - @ctx-core/sass@12.1.15
+  - @ctx-core/store@27.0.54
+
 ## 12.0.93
 
 ### Patch Changes
