@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 12.0.93
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/array@23.0.39
+  - @ctx-core/object@22.0.6
+  - @ctx-core/sass@12.1.14
+  - @ctx-core/store@27.0.53
+
 ## 12.0.92
 
 ### Patch Changes

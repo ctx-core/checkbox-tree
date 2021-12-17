@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tree__checkbox",
-	"version": "12.0.92",
+	"version": "12.0.93",
 	"description": "ctx-core tree__checkbox",
 	"keywords": [
 		"ctx-core",
@@ -19,7 +19,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./dist/index.d.ts",
+	"types": "./src/index.ts",
 	"exports": {
 		".": {
 			"import": "./dist/index.js"
@@ -37,13 +37,13 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.38",
-		"@ctx-core/object": "workspace:^22.0.5",
-		"@ctx-core/sass": "workspace:^12.1.13",
-		"@ctx-core/store": "workspace:^27.0.52"
+		"@ctx-core/array": "workspace:^23.0.39",
+		"@ctx-core/object": "workspace:^22.0.6",
+		"@ctx-core/sass": "workspace:^12.1.14",
+		"@ctx-core/store": "workspace:^27.0.53"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.92",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.93",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.55",
