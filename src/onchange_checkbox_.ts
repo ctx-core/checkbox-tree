@@ -1,7 +1,7 @@
 import { clone } from '@ctx-core/object'
-import { get, Writable } from '@ctx-core/store'
+import type { WritableAtom$ } from '@ctx-core/nanostores'
 export function onchange_checkbox_(
-	store:Writable<Record<string, boolean>>
+	store$:WritableAtom$<Record<string, boolean>>
 ) {
 	return function onchange_checkbox(
 		event:CustomEvent<{ currentTarget:EventTarget }>|InputEvent,
@@ -12,10 +12,10 @@ export function onchange_checkbox_(
 			|| event
 		).currentTarget! as HTMLInputElement
 		const { checked } = currentTarget
-		const item_h_selected:Record<string, boolean> = clone(get(store))
+		const item_h_selected:Record<string, boolean> = clone(store$.$)
 		if (!!(checked) != !!(item_h_selected[item])) {
 			item_h_selected[item] = checked
-			store.set(item_h_selected)
+			store$.set(item_h_selected)
 		}
 	}
 }

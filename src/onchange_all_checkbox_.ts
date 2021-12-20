@@ -1,7 +1,7 @@
 import { clone } from '@ctx-core/object'
-import { get, Writable } from '@ctx-core/store'
+import type { WritableAtom$ } from '@ctx-core/nanostores'
 export function onchange_all_checkbox_(
-	store:Writable<Record<string, boolean>>,
+	store$:WritableAtom$<Record<string, boolean>>,
 	fn:(item_h_selected:Record<string, boolean>, checked:boolean)=>void
 ) {
 	return function onchange_all_checkbox(
@@ -12,9 +12,9 @@ export function onchange_all_checkbox_(
 			|| event
 		).currentTarget! as HTMLInputElement
 		const { checked } = currentTarget
-		const item_h_selected:Record<string, boolean> = clone(get(store))
+		const item_h_selected:Record<string, boolean> = clone(store$.$)
 		fn(item_h_selected, checked)
-		store.set(item_h_selected)
+		store$.$ = item_h_selected
 	}
 }
 export {
