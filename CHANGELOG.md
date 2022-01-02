@@ -1,5 +1,15 @@
 # @ctx-core/tree\_\_checkbox
 
+## 13.0.6
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/nanostores@0.3.1
+  - @ctx-core/sass@12.1.19
+  - @ctx-core/svelte@10.1.2
+
 ## 13.0.5
 
 ### Patch Changes
