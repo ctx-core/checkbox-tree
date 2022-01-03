@@ -1,5 +1,11 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.0.1
+
+### Patch Changes
+
+- fix: package.json: module & type bindings
+
 ## 14.0.0
 
 ### Major Changes

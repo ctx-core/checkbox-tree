@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/checkbox-tree",
-	"version": "14.0.0",
+	"version": "14.0.1",
 	"description": "ctx-core checkbox tree component support library",
 	"keywords": [
 		"ctx-core",
@@ -19,11 +19,11 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./lib/index.d.ts",
-	"svelte": "./lib/index.js",
+	"types": "./src/index.d.ts",
+	"svelte": "./src/index.js",
 	"exports": {
 		".": {
-			"import": "./lib/index.js"
+			"import": "./src/index.js"
 		},
 		"./package.json": "./package.json"
 	},
