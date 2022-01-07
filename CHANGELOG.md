@@ -1,5 +1,15 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.0.3
+
+### Patch Changes
+
+- uvu: ^0.5.2 -> ^0.5.3
+- Updated dependencies
+  - @ctx-core/array@23.1.3
+  - @ctx-core/nanostores@0.3.3
+  - @ctx-core/object@22.0.11
+
 ## 14.0.2
 
 ### Patch Changes
