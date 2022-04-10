@@ -1,5 +1,12 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.1.0
+
+### Minor Changes
+
+- onchange*all_checkbox*,onchange*checkbox*: feat: + <Evt = checkbox_tree_default_Event_T> generic for fn event argument type
+- feat: + checkbox_tree_default_Event_T
+
 ## 14.0.25
 
 ### Patch Changes
