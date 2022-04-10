@@ -4,10 +4,10 @@ export const onchange_checkbox_ = store$=>
 	(event, item)=>{
 		const currentTarget = (event.detail || event).currentTarget
 		const { checked } = currentTarget
-		const item_h_selected = clone(store$.$)
-		if (!!checked != !!item_h_selected[item]) {
-			item_h_selected[item] = checked
-			store$.set(item_h_selected)
+		const item_r_selected = clone(store$.$)
+		if (!!checked != !!item_r_selected[item]) {
+			item_r_selected[item] = checked
+			store$.set(item_r_selected)
 		}
 	}
 export { onchange_checkbox_ as _onchange_checkbox, }
