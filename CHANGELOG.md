@@ -1,5 +1,11 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.1.1
+
+### Patch Changes
+
+- update dependencies
+
 ## 14.1.0
 
 ### Minor Changes
