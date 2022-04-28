@@ -1,5 +1,13 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.1.7
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies
+  - @ctx-core/array@26.2.2
+
 ## 14.1.6
 
 ### Patch Changes
