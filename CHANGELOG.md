@@ -1,5 +1,11 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.1.40
+
+### Patch Changes
+
+- tslib: ^2.4.1 -> ^2.5.0
+
 ## 14.1.39
 
 ### Patch Changes
