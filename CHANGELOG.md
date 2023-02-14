@@ -1,5 +1,13 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.2.0
+
+### Minor Changes
+
+- all**checkbox**onchange*: aliased by onchange_all_checkbox*
+- checkbox\__onchange_: aliased by onchange*checkbox*
+- extract _.js & _.d.ts into directories
+
 ## 14.1.51
 
 ### Patch Changes

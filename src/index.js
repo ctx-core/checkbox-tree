@@ -1,2 +1,2 @@
-export * from './onchange_all_checkbox_.js'
-export * from './onchange_checkbox_.js'
+export * from './all__checkbox__onchange_/index.js'
+export * from './checkbox__onchange_/index.js'

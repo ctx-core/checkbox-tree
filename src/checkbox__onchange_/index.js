@@ -1,6 +1,6 @@
 import { clone } from '@ctx-core/object'
-/** @type {import('./onchange_checkbox_.d.ts').onchange_checkbox_} */
-export const onchange_checkbox_ = store$=>
+/** @type {typeof import('./index.d.ts').checkbox__onchange_} */
+export const checkbox__onchange_ = store$=>
 	(event, item)=>{
 		const currentTarget = (event.detail || event).currentTarget
 		const { checked } = currentTarget
@@ -10,4 +10,7 @@ export const onchange_checkbox_ = store$=>
 			store$.set(item_r_selected)
 		}
 	}
-export { onchange_checkbox_ as _onchange_checkbox, }
+export {
+	checkbox__onchange_ as onchange_checkbox_,
+	checkbox__onchange_ as _onchange_checkbox,
+}

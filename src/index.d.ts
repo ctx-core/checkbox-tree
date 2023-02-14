@@ -1,3 +1,3 @@
 export * from './_types'
-export * from './onchange_all_checkbox_'
-export * from './onchange_checkbox_'
+export * from './all__checkbox__onchange_'
+export * from './checkbox__onchange_'
