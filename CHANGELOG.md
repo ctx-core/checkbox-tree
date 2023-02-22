@@ -1,5 +1,11 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.2.9
+
+### Patch Changes
+
+- @ctx-core/array: ^26.11.4 -> ^26.11.5
+
 ## 14.2.8
 
 ### Patch Changes
