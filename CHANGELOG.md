@@ -1,5 +1,18 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.3.0
+
+### Minor Changes
+
+- all\_\_checkbox\_\_onchange\_: return type: (event:Evt)=>any
+- - all\_\_checkbox\_\_onchange\_\_\_fn_T
+- checkbox\__onchange_: return type: (event:Evt, item:string)=>any
+- - checkbox_tree\_\_event_T: aliased by checkbox_tree_default_Event_T
+
+### Patch Changes
+
+- - jsdoc
+
 ## 14.2.37
 
 ### Patch Changes
