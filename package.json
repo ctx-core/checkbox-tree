@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/checkbox-tree",
-	"version": "14.3.25",
+	"version": "14.3.26",
 	"description": "ctx-core checkbox tree component support library",
 	"keywords": [
 		"ctx-core",
@@ -36,7 +36,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "^26.12.32",
-		"@ctx-core/nanostores": "^3.2.22",
+		"@ctx-core/nanostores": "^3.2.23",
 		"@ctx-core/object": "^27.4.23"
 	},
 	"devDependencies": {
