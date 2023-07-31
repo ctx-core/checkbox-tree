@@ -1,5 +1,13 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.3.69
+
+### Patch Changes
+
+- @ctx-core/array: ^26.12.44 -> ^26.12.45
+- @ctx-core/object: ^28.0.3 -> ^28.0.4
+- @ctx-core/nanostores: ^6.0.0 -> ^6.0.1
+
 ## 14.3.68
 
 ### Patch Changes
