@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/checkbox-tree",
-	"version": "14.3.70",
+	"version": "14.3.71",
 	"description": "ctx-core checkbox tree component support library",
 	"keywords": [
 		"ctx-core",
@@ -44,7 +44,7 @@
 		"@sveltejs/kit": "next",
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tslib": "^2.6.1",
+		"tslib": "^2.6.2",
 		"tsx": "^3.12.7",
 		"typescript": "next",
 		"uvu": "^0.5.6"
