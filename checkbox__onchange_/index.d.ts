@@ -1,5 +1,5 @@
 import type { WritableAtom_ } from '@ctx-core/nanostores'
-import type { checkbox_tree__event_T } from '../_types'
+import type { checkbox_tree__event_T } from '../_types/index.js'
 export declare function checkbox__onchange_<
 	Evt = checkbox_tree__event_T
 >(

@@ -1,6 +1,6 @@
 import { assign } from '@ctx-core/object'
 /** @typedef {import('@ctx-core/nanostores').WritableAtom_}WritableAtom_ */
-/** @typedef {import('../_types').checkbox_tree__event_T}checkbox_tree__event_T */
+/** @typedef {import('../_types/index.d.ts').checkbox_tree__event_T}checkbox_tree__event_T */
 /**
  * @param {WritableAtom_<Record<string, boolean>>}atom_
  * @returns {(event:checkbox_tree__event_T, item:string)=>any}
