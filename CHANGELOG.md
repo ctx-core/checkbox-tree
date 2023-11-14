@@ -1,5 +1,15 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.4.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/array@27.0.2
+  - @ctx-core/nanostores@7.1.3
+  - @ctx-core/object@30.1.2
+
 ## 14.4.1
 
 ### Patch Changes
