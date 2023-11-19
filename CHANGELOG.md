@@ -1,5 +1,16 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.4.19
+
+### Patch Changes
+
+- @ctx-core/nanostores: ^9.0.0 -> ^9.0.1
+- tsx: ^4.1.3 -> ^4.1.4
+- Updated dependencies
+  - @ctx-core/array@27.0.18
+  - @ctx-core/nanostores@9.0.2
+  - @ctx-core/object@31.0.1
+
 ## 14.4.18
 
 ### Patch Changes
