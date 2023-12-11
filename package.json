@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/checkbox-tree",
-	"version": "14.4.47",
+	"version": "14.5.0",
 	"description": "ctx-core checkbox tree component support library",
 	"keywords": [
 		"ctx-core",
