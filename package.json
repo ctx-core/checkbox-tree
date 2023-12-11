@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/checkbox-tree",
-	"version": "14.5.0",
+	"version": "14.5.1",
 	"description": "ctx-core checkbox tree component support library",
 	"keywords": [
 		"ctx-core",
@@ -42,9 +42,9 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^27.1.5",
-		"@ctx-core/nanostores": "^9.0.30",
-		"@ctx-core/object": "^31.1.25"
+		"@ctx-core/array": "^27.1.6",
+		"@ctx-core/nanostores": "^9.0.31",
+		"@ctx-core/object": "^31.1.26"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
