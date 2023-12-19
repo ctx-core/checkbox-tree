@@ -1,5 +1,11 @@
 # @ctx-core/tree\_\_checkbox
 
+## 14.5.13
+
+### Patch Changes
+
+- consolidate dependencies
+
 ## 14.5.12
 
 ### Patch Changes
