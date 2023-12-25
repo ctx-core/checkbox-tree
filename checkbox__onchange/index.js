@@ -1,18 +1,18 @@
+/// <reference types="ctx-core" />
 /// <reference types="../types/index.d.ts" />
-/** @typedef {import('@ctx-core/nanostores').WritableAtom_} */
 /**
- * @param {WritableAtom_<Record<string, boolean>>}atom_
+ * @param {sig_T<Record<string, boolean>>}sig
  * @returns {(event:checkbox_tree__event_T, item:string)=>any}
  * @private
  */
-export function checkbox__onchange_(atom_) {
+export function checkbox__onchange_(sig) {
 	return (event, item)=>{
 		const currentTarget = (event.detail || event).currentTarget
 		const { checked } = currentTarget
-		const item_R_selected = { ...atom_.$ }
+		const item_R_selected = { ...sig() }
 		if (!!checked != !!item_R_selected[item]) {
 			item_R_selected[item] = checked
-			atom_.set(item_R_selected)
+			sig._ = item_R_selected
 		}
 	}
 }
