@@ -1,5 +1,11 @@
 # @ctx-core/tree\_\_checkbox
 
+## 15.0.10
+
+### Patch Changes
+
+- ctx-core: ^5.14.0 -> ^5.15.0
+
 ## 15.0.9
 
 ### Patch Changes
