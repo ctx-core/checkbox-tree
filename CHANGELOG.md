@@ -1,5 +1,13 @@
 # @ctx-core/tree\_\_checkbox
 
+## 15.0.71
+
+### Patch Changes
+
+- ctx-core: ^6.2.1 -> ^6.2.2
+- Updated dependencies
+  - ctx-core@6.2.3
+
 ## 15.0.70
 
 ### Patch Changes
