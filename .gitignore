@@ -2,7 +2,7 @@
 tsconfig.tsbuildinfo
 node_modules
 COMMIT_EDITMSG
-~/.npm
+.npm
 lib
 types
 ctx-core-checkbox-tree-14.0.12.tgz
