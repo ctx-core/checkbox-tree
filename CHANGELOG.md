@@ -1,5 +1,13 @@
 # @ctx-core/tree\_\_checkbox
 
+## 15.0.94
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 15.0.93
 
 ### Patch Changes
