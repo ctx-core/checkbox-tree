@@ -16,7 +16,7 @@ export function all__checkbox__onchange_(
 		const { checked } = currentTarget
 		const item_R_selected = { ...sig() }
 		fn(item_R_selected, checked)
-		sig._ = item_R_selected
+		sig.set(item_R_selected)
 	}
 }
 export {

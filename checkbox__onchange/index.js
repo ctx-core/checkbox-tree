@@ -12,7 +12,7 @@ export function checkbox__onchange_(sig) {
 		const item_R_selected = { ...sig() }
 		if (!!checked != !!item_R_selected[item]) {
 			item_R_selected[item] = checked
-			sig._ = item_R_selected
+			sig.set(item_R_selected)
 		}
 	}
 }
