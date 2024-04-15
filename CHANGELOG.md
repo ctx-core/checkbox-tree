@@ -1,5 +1,11 @@
 # @ctx-core/tree\_\_checkbox
 
+## 15.0.114
+
+### Patch Changes
+
+- @sveltejs/kit: ^2.5.5 -> ^2.5.6
+
 ## 15.0.113
 
 ### Patch Changes
