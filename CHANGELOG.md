@@ -1,5 +1,12 @@
 # @ctx-core/tree\_\_checkbox
 
+## 15.0.128
+
+### Patch Changes
+
+- @sveltejs/kit: ^2.5.9 -> ^2.5.10
+- @sveltejs/adapter-auto: ^3.2.0 -> ^3.2.1
+
 ## 15.0.127
 
 ### Patch Changes
