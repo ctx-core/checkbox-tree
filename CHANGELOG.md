@@ -1,5 +1,13 @@
 # @ctx-core/tree\_\_checkbox
 
+## 15.0.158
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 15.0.157
 
 ### Patch Changes
